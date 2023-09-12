@@ -13,7 +13,7 @@
     "id": 9014,
     "titulo": "Participe da 1ª Conferência Intermunicipal de Cultura das Montanhas Capixabas",
     "data": "28/08/2023",
-    "imagem": "http://www.castelo.es.gov.br/imagens/capas/noticias/WhatsApp%20Image%202023-08-28%20at%2015.53.53.jpeg",
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/conferencia.jpeg",
     "descricao": "O evento é destinado a todos os fazedores de cultura da região das Montanhas Capixabas e será realizado no dia 05 de setembro (terça-feira), no Centro Cultural e Turístico “Máximo Zandonadi”, em Venda Nova do Imigrante. \n\nA Prefeitura de Castelo, por meio da Secretaria Municipal de Turismo, Eventos e Cultura (SEMTEC), convida todos os criadores de cultura a participar do evento, o qual vai agregar muito conhecimento ao público-alvo. O transporte até a Conferência será ofertado gratuitamente.",
     "destaque": true,
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9014"
@@ -22,7 +22,7 @@
     "id": 9013,
     "titulo": "Comunicado Mei Nota Fiscal de Serviços",
     "data": "28/08/2023",
-    "imagem": "http://www.castelo.es.gov.br/imagens/capas/noticias/mei.jpg",
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/mei.jpg",
     "descricao": "Tendo em vista a obrigatoriedade de emissão da NFS-e de padrão nacional pelo MEI, conforme a Resolução CGSN 169/2022, as notas emitidas por MEI a partir de 01 de setembro de 2023, devem ser geradas exclusivamente no ambiente nacional.\n\nPor isso, o sistema de Nota Fiscal Eletrônica do Município de CASTELO terá a função desabilitada para os MEIs em 31 de agosto de 2023 e não poderá mais ser utilizado para emissão de nota fiscal de serviços, devendo estes utilizarem o sistema nacional para as emissões de NFS-e.\n\nPara emitir sua nota fiscal acesse o link: https://www.nfse.gov.br/emissornacional\n\nCaso queira, assista tutorial de como acessar sua nota fiscal: https://www.youtube.com/watch?v=jCf0QQ4n7xc\n\nPara maiores informações e respostas as dúvidas acesse: https://www.gov.br/nfse/pt-br/copy_of_perguntas-frequentes/copy_of_faq-nfs-e#section-2",
     "destaque": false,
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9013"
