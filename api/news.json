@@ -31,8 +31,7 @@
     titulo: "Confira a Pova Programação Das Aulas Gratuitas de Fitdance",
     data: "27/06/2023",
     imagem: "https://pmcmobile.github.io/backend/api/image/news/festadocomercio.jpeg",
-    descricao:
-      "O Projeto Aulas Gratuitas de FitDance, promovido pela Prefeitura de Castelo, através da Secretaria Municipal de Lazer, Esportes e Juventude – SEMLEJ, estará de volta na próxima segunda-feira, 03 de julho.\n\nAs aulas vão acontecer semanalmente, na área urbana e no interior do Município, sob o comando dos Professores Celso Vitor Mamede e Helena Barcelos. Para participar não é preciso fazer inscrição, apenas comparecer no local. \n\nO FitDance é uma atividade voltada para a dança que envolve coreografias com estilos musicais variados, como o axé, o piseiro, o funk e o sertanejo. Além de desenvolver os movimentos corporais a atividade também estimula a parte cardiovascular do organismo e a queima calórica.",
+    descricao: "O Projeto Aulas Gratuitas de FitDance, promovido pela Prefeitura de Castelo, através da Secretaria Municipal de Lazer, Esportes e Juventude – SEMLEJ, estará de volta na próxima segunda-feira, 03 de julho.\n\nAs aulas vão acontecer semanalmente, na área urbana e no interior do Município, sob o comando dos Professores Celso Vitor Mamede e Helena Barcelos. Para participar não é preciso fazer inscrição, apenas comparecer no local. \n\nO FitDance é uma atividade voltada para a dança que envolve coreografias com estilos musicais variados, como o axé, o piseiro, o funk e o sertanejo. Além de desenvolver os movimentos corporais a atividade também estimula a parte cardiovascular do organismo e a queima calórica.",
     destaque: true,
     url: "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=8976",
   }
