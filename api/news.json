@@ -14,7 +14,7 @@
     "data": "28/08/2023",
     "imagem": "https://pmcmobile.github.io/backend/api/image/news/conferencia.jpeg",
     "descricao": "O evento é destinado a todos os fazedores de cultura da região das Montanhas Capixabas e será realizado no dia 05 de setembro (terça-feira), no Centro Cultural e Turístico “Máximo Zandonadi”, em Venda Nova do Imigrante. \n\nA Prefeitura de Castelo, por meio da Secretaria Municipal de Turismo, Eventos e Cultura (SEMTEC), convida todos os criadores de cultura a participar do evento, o qual vai agregar muito conhecimento ao público-alvo. O transporte até a Conferência será ofertado gratuitamente.",
-    "destaque": true,
+    "destaque": false,
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9014"
   },
   {
@@ -34,5 +34,14 @@
     "descricao": "O Projeto Aulas Gratuitas de FitDance, promovido pela Prefeitura de Castelo, através da Secretaria Municipal de Lazer, Esportes e Juventude – SEMLEJ, estará de volta na próxima segunda-feira, 03 de julho.\n\nAs aulas vão acontecer semanalmente, na área urbana e no interior do Município, sob o comando dos Professores Celso Vitor Mamede e Helena Barcelos. Para participar não é preciso fazer inscrição, apenas comparecer no local. \n\nO FitDance é uma atividade voltada para a dança que envolve coreografias com estilos musicais variados, como o axé, o piseiro, o funk e o sertanejo. Além de desenvolver os movimentos corporais a atividade também estimula a parte cardiovascular do organismo e a queima calórica.",
     "destaque": true,
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=8976"
-  }
+  },
+  {
+    "id": 8973,
+    "titulo": "Projeto Da Prefeitura Que Vai Oferecer Aulas Gratuitas De Jiu-Jitsu Começa Na Segunda-Feira (26)",
+    "data": "21/06/2023",
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/8973.jpeg",
+    "descricao": "Na segunda-feira, 26 de junho, a Secretaria Municipal de Lazer, Esporte e Juventude – SEMLEJ, vai iniciar o “Projeto Jiu-jitsu, que disponibilizará aulas gratuitas para crianças e adolescentes com idade entre 08 e 17 anos.\n\nAs aulas vão acontecer de segunda a sexta-feira, em vários horários (conforme cronograma abaixo) no Parque Beira Rio e nas Quadras Poliesportivas dos Bairros: Esplanada, Aracuí, Garage e Niterói. As inscrições serão realizadas no local e para participar o interessado precisa da autorização dos pais ou responsáveis.\n\nOs treinos serão sob o comando do Instrutor Felipe Salgado (Faixa Preta, 4° Grau) com mais de 20 anos de experiência no esporte e diplomado pelas Federações Estaduais com vários títulos na modalidade, como o “Tri Brasileiro e “Hepta Estadual de Jiu-jitsu.\n\nPara promover esse Projeto, a Prefeitura adquiriu, com recursos próprios, 120 placas de tatame em EVA. “O Jiu-jitsu é um esporte de extrema importância para essa faixa etária, pois desenvolve a força, a resistência e aumenta o condicionamento físico, além de ensinar técnicas de defesa pessoal, disciplina e autoconfiança. Esse Projeto dará oportunidade para nossos jovens praticarem um esporte que ao mesmo tempo que é divertido é também uma arte marcial, explicou João Paulo Nali, Prefeito de Castelo.",
+    "destaque": true,
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=8973"
+  } 
 ]
