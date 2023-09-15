@@ -25,5 +25,15 @@
     "descricao": "Tendo em vista a obrigatoriedade de emissão da NFS-e de padrão nacional pelo MEI, conforme a Resolução CGSN 169/2022, as notas emitidas por MEI a partir de 01 de setembro de 2023, devem ser geradas exclusivamente no ambiente nacional.\n\nPor isso, o sistema de Nota Fiscal Eletrônica do Município de CASTELO terá a função desabilitada para os MEIs em 31 de agosto de 2023 e não poderá mais ser utilizado para emissão de nota fiscal de serviços, devendo estes utilizarem o sistema nacional para as emissões de NFS-e.\n\nPara emitir sua nota fiscal acesse o link: https://www.nfse.gov.br/emissornacional\n\nCaso queira, assista tutorial de como acessar sua nota fiscal: https://www.youtube.com/watch?v=jCf0QQ4n7xc\n\nPara maiores informações e respostas as dúvidas acesse: https://www.gov.br/nfse/pt-br/copy_of_perguntas-frequentes/copy_of_faq-nfs-e#section-2",
     "destaque": false,
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9013"
+  },
+  {
+    id: 8976,
+    titulo: "Confira a Pova Programação Das Aulas Gratuitas de Fitdance",
+    data: "27/06/2023",
+    imagem: "https://pmcmobile.github.io/backend/api/image/news/festadocomercio.jpeg",
+    descricao:
+      "O Projeto Aulas Gratuitas de FitDance, promovido pela Prefeitura de Castelo, através da Secretaria Municipal de Lazer, Esportes e Juventude – SEMLEJ, estará de volta na próxima segunda-feira, 03 de julho.\n\nAs aulas vão acontecer semanalmente, na área urbana e no interior do Município, sob o comando dos Professores Celso Vitor Mamede e Helena Barcelos. Para participar não é preciso fazer inscrição, apenas comparecer no local. \n\nO FitDance é uma atividade voltada para a dança que envolve coreografias com estilos musicais variados, como o axé, o piseiro, o funk e o sertanejo. Além de desenvolver os movimentos corporais a atividade também estimula a parte cardiovascular do organismo e a queima calórica.",
+    destaque: true,
+    url: "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=8976",
   }
 ]
