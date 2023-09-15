@@ -16,7 +16,16 @@
     "descricao": "A Prefeitura de Castelo, através da Secretaria Municipal de Infraestrutura Urbana - SEMIURB, segue ampliando o seu maquinário. Na segunda-feira, 14 de agosto, o Município recebeu um Rolo Compactador de Solo da marca XCMG, ano 2023, modelo XS123PDBR. \n\nO Rolo, no valor de R$ 444,8 mil, foi adquirido com recursos próprios do Município e com objetivo de ampliar a aplicação do revsol nas estradas rurais, já que o equipamento é fundamental para a realização do serviço.\n\n \"O Rolo permite a compactação dos materiais no solo, resultando em um melhor acabamento da via e mantendo a estrada em boas condições por um período maior. Por ser um equipamento tão importante, esse já é o terceiro obtido por nossa gestão\", explicou o Prefeito, João Paulo Nali.",
     "destaque": false,
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9016"
-  },   
+  }, 
+  {
+    "id": 9015,
+    "titulo": "Aracuí é a Grande Campeã do Regional da Cidade",
+    "data": "04/09/2023",
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9015.jpg",
+    "descricao": "A equipe do Aracuí foi a grande campeã do “Campeonato Regional de Futebol de Campo da Cidade”. A disputa aconteceu na tarde de sábado, 02 setembro, no Estádio Emílio Nemer, onde mais de 1.500 pessoas prestigiaram o evento promovido pela Prefeitura de Castelo, através da Secretaria Municipal de Lazer, Esportes e Juventude – SEMLEJ.\n\nA final do campeonato foi realizada em 02 jogos, no jogo de ida que aconteceu no sábado (26/08), a equipe do Aracuí venceu o Niterói por 2 x 0, já no jogo de volta, o Niterói venceu o Aracuí por 2 x 0 no tempo regular, o que levou a decisão para os pênaltis e a vitória para a equipe do Aracuí por 5 x 4. \n\n “Trazer o Regional para a Cidade é uma forma de valorizar nossos atletas e incentivar o lazer nos finais de semana através da prática esportiva. Parabenizo a equipe do Aracuí pelo título e as equipes participantes pela dedicação e disciplina”, comentou o Prefeito de Castelo, João Paulo Nali. \n\n O campeonato, que teve início no mês de julho, contou com a participação de 06 equipes, 21 jogos e 58 gols, uma média de 2,76 gols por partida. \n\nA premiação aconteceu logo após a partida, receberam troféus as seguintes categorias: \n\n Melhor Jogador da Competição: Hoberdan (Niterói); \nGoleiro Menos Vazado: Vinícius Maraçat (Aracuí);\nAtleta Revelação: Diego Pôncio (Niterói)\nArtilheiros: Neto (Aracuí) e Bim Tiengo (Vila Isabel) ambos com 06 gols; \nTroféu Disciplina: Nossa Senhora Aparecida;\nVice-Campeã: Niterói; \nCampeã: Aracuí.",
+    "destaque": true,
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9015"
+  },
   {
     "id": 9014,
     "titulo": "Participe da 1ª Conferência Intermunicipal de Cultura das Montanhas Capixabas",
