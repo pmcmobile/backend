@@ -9,6 +9,15 @@
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9017"
   },
   {
+    "id": 9016,
+    "titulo": "Prefeitura Adquire Mais Um Rolo Compactador De Solo",
+    "data": "04/09/2023",
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9016.jpg",
+    "descricao": "A Prefeitura de Castelo, através da Secretaria Municipal de Infraestrutura Urbana - SEMIURB, segue ampliando o seu maquinário. Na segunda-feira, 14 de agosto, o Município recebeu um Rolo Compactador de Solo da marca XCMG, ano 2023, modelo XS123PDBR. \n\nO Rolo, no valor de R$ 444,8 mil, foi adquirido com recursos próprios do Município e com objetivo de ampliar a aplicação do revsol nas estradas rurais, já que o equipamento é fundamental para a realização do serviço.\n\n \"O Rolo permite a compactação dos materiais no solo, resultando em um melhor acabamento da via e mantendo a estrada em boas condições por um período maior. Por ser um equipamento tão importante, esse já é o terceiro obtido por nossa gestão\", explicou o Prefeito, João Paulo Nali.",
+    "destaque": false,
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9016"
+  },   
+  {
     "id": 9014,
     "titulo": "Participe da 1ª Conferência Intermunicipal de Cultura das Montanhas Capixabas",
     "data": "28/08/2023",
