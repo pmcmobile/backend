@@ -1,18 +1,19 @@
 {
-"erro": false,
-"message": "Registros encontrado: 1",
-"farmacias": [
-{
-"id": "60",
-"nome": "Farmácia Hiper Central",
-"data": "19 de Setembro",
-"endereco": "Av. Nossa Senhora da Penha",
-"pontoreferencia": null,
-"bairro": "Santo Andrezinho",
-"telefone": "2835426268",
-"celplantao": "28988081117",
-"latitude": "-20.605189190254166",
-"longitude": "-41.203580336841880"
-}
-]
+  "erro": false,
+  "message": "Registros encontrado: 1",
+  "farmacias": [
+    {
+    "id": "60",
+    "nome": "Farmácia Hiper Central",
+    "data": "19 de Setembro",
+    "endereco": "Av. Nossa Senhora da Penha",
+    "pontoreferencia": null,
+    "bairro": "Santo Andrezinho",
+    "telefone": "2835426268",
+    "celplantao": "28988081117",
+    "latitude": "-20.605189190254166",
+    "longitude": "-41.203580336841880",
+    "maps": "https://maps.app.goo.gl/d5NdnfX6cS7TuFmG9"
+    }
+  ]
 }
