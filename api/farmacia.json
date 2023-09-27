@@ -1,19 +1,54 @@
 {
   "erro": false,
-  "message": "Registros encontrado: 1",
+  "message": "Registros encontrado: 4",
   "farmacias": [
     {
-    "id": "60",
-    "nome": "Farmácia Hiper Central",
-    "data": "19 de Setembro",
-    "endereco": "Av. Nossa Senhora da Penha",
-    "pontoreferencia": null,
-    "bairro": "Santo Andrezinho",
-    "telefone": "2835426268",
-    "celplantao": "28988081117",
-    "latitude": "-20.605189190254166",
-    "longitude": "-41.203580336841880",
-    "maps": "https://maps.app.goo.gl/d5NdnfX6cS7TuFmG9"
+      "id": "68",
+      "nome": "Farmácia Central",
+      "data": "27 de Setembro",
+      "endereco": "R. Aristeu B Águiar, 19",
+      "pontoreferencia": null,
+      "bairro": "Centro",
+      "telefone": "2835424623",
+      "celplantao": "28999627328",
+      "latitude": "-20.602456432708124",
+      "longitude": "-41.203432957485740"
+    },
+    {
+      "id": "69",
+      "nome": "Bia Drogaria",
+      "data": "28 de Setembro",
+      "endereco": "Av. Min. Araripe, 204",
+      "pontoreferencia": null,
+      "bairro": "Centro",
+      "telefone": "2835424632",
+      "celplantao": "28999048682",
+      "latitude": "-20.602075995807170",
+      "longitude": "-41.204800092844080"
+    },
+    {
+      "id": "70",
+      "nome": "Drogaria Farma em Vida",
+      "data": "29 de Setembro",
+      "endereco": "R. Antônio Bento, 55",
+      "pontoreferencia": null,
+      "bairro": "Centro",
+      "telefone": "2835424656",
+      "celplantao": "28999696198",
+      "latitude": "-20.602582650583475",
+      "longitude": "-41.202477442840620"
+    },
+    {
+      "id": "71",
+      "nome": "Farmácia Preço Baixo",
+      "data": "30 de Setembro",
+      "endereco": "R. Aristeu B Águiar, 75",
+      "pontoreferencia": null,
+      "bairro": "Centro",
+      "telefone": "2833103460",
+      "celplantao": "28999117328",
+      "latitude": "-20.602606750246252",
+      "longitude": "-41.203484751363840"
     }
   ]
 }
