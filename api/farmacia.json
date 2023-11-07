@@ -4,7 +4,7 @@
   "farmacias": [
     {
       "id": "47",
-      "plantaoData": "20231006",
+      "plantaoData": "20231107",
       "nome": "Drogaria Mineira",
       "data": "06 de Outubro",
       "endereco": "Av. Min. Araripe, 12",
@@ -17,7 +17,7 @@
     },
     {
       "id": "48",
-      "plantaoData": "20231007",
+      "plantaoData": "20231108",
       "nome": "Drogaria Esplanada",
       "data": "07 de Outubro",
       "endereco": "Av. Nossa Sra. da Penha, 1635",
@@ -30,7 +30,7 @@
     },
     {
       "id": "49",
-      "plantaoData": "20231008",
+      "plantaoData": "20231109",
       "nome": "Farmácias Avenida (1)",
       "data": "08 de Outubro",
       "endereco": "Praça José Vivacqua, 25",
@@ -43,7 +43,7 @@
     },
     {
       "id": "50",
-      "plantaoData": "20231009",
+      "plantaoData": "20231110",
       "nome": "Drogaria Hiper Farma",
       "data": "09 de Outubro",
       "endereco": "Av. Min. Araripe, 148",
@@ -56,7 +56,7 @@
     },
     {
       "id": "51",
-      "plantaoData": "20231010",
+      "plantaoData": "20231111",
       "nome": "Farmácia Central",
       "data": "10 de Outubro",
       "endereco": "R. Aristeu B Águiar, 19",
@@ -69,7 +69,7 @@
     },
     {
       "id": "52",
-      "plantaoData": "20231011",
+      "plantaoData": "20231112",
       "nome": "Bia Drogaria",
       "data": "11 de Outubro",
       "endereco": "Av. Min. Araripe, 204",
@@ -82,7 +82,7 @@
     },
     {
       "id": "53",
-      "plantaoData": "20231012",
+      "plantaoData": "20231113",
       "nome": "Drogaria Farma em Vida",
       "data": "12 de Outubro",
       "endereco": "R. Antônio Bento, 55",
@@ -95,7 +95,7 @@
     },
     {
       "id": "54",
-      "plantaoData": "20231013",
+      "plantaoData": "20231114",
       "nome": "Farmácia Preço Baixo",
       "data": "13 de Outubro",
       "endereco": "R. Aristeu B Águiar, 75",
@@ -121,7 +121,7 @@
     },
     {
       "id": "56",
-      "plantaoData": "20231015",
+      "plantaoData": "20231115",
       "nome": "Drogaria Matos",
       "data": "15 de Outubro",
       "endereco": "Av. Nossa Sra. da Penha, 196",
@@ -134,7 +134,7 @@
     },
     {
       "id": "57",
-      "plantaoData": "20231016",
+      "plantaoData": "20231116",
       "nome": "Farmácia Viva Bem",
       "data": "16 de Outubro",
       "endereco": "Rua: Antônio Rangel, 93",
@@ -147,7 +147,7 @@
     },
     {
       "id": "58",
-      "plantaoData": "20231017",
+      "plantaoData": "20231117",
       "nome": "Farmes Castelo",
       "data": "17 de Outubro",
       "endereco": "Av. Min. Araripe, 234",
@@ -160,7 +160,7 @@
     },
     {
       "id": "59",
-      "plantaoData": "20231018",
+      "plantaoData": "20231118",
       "nome": "Drogaria Ultra Popular",
       "data": "18 de Outubro",
       "endereco": "Rua Aristeu Borges de Aguiar, 20",
@@ -173,7 +173,7 @@
     },
     {
       "id": "60",
-      "plantaoData": "20231019",
+      "plantaoData": "20231119",
       "nome": "Farmácia Hiper Central",
       "data": "19 de Outubro",
       "endereco": "Av. Nossa Senhora da Penha",
@@ -186,7 +186,7 @@
     },
     {
       "id": "61",
-      "plantaoData": "20231020",
+      "plantaoData": "20231120",
       "nome": "Farmácia Salute",
       "data": "20 de Outubro",
       "endereco": "Av. Min. Araripe, 194",
@@ -199,7 +199,7 @@
     },
     {
       "id": "62",
-      "plantaoData": "20231021",
+      "plantaoData": "20231121",
       "nome": "Drogaria Castelo",
       "data": "21 de Outubro",
       "endereco": "R. Maria Ortiz, 768",
@@ -212,7 +212,7 @@
     },
     {
       "id": "63",
-      "plantaoData": "20231022",
+      "plantaoData": "20231122",
       "nome": "Drogaria Saúde",
       "data": "22 de Outubro",
       "endereco": "R. Antônio Bento, 32",
