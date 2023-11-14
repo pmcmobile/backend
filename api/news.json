@@ -1,4 +1,31 @@
 [
+        {
+        "id": 9046,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9046.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9046",
+        "data": "13/11/2023",
+        "titulo": "Chamamento Público Para o Programa de Aquisição de Alimentos (PAA)",
+        "descricao": "A Prefeitura Municipal de Castelo informa que está disponível o Edital para aquisição de gêneros alimentícios da Agricultura Familiar para o Programa de Aquisição de Alimentos (PAA). Os agricultores interessados em participar deverão apresentar a documentação entre os dias 13 e 17 de novembro, das 8 às 13 horas, na “Secretaria Municipal de Desenvolvimento Social e Habitação - SEMDSH”, situada na Rua Carlos Lomba, número 233, centro da cidade.",
+        "destaque": true
+    }
+    {
+        "id": 9045,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9045.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9045",
+        "data": "10/11/2023",
+        "titulo": "Prefeitura de Castelo Abre Processos Seletivos Simplificados para cargos na SEMIURB e na SEMSA",
+        "descricao": "A Prefeitura Municipal de Castelo torna público os editais dos Processos Seletivos Simplificados para profissionais atuarem nas Secretarias Municipais de Infraestrutura Urbana e Saúde.\n\nAs inscrições serão realizadas no Teatro Municipal “Artênio Merçon”, entre os dias 13 e 17 de novembro, das 9h às 12h e das 14h às 16h.\n\nEstão disponíveis no Processo Seletivo da SEMIURB vagas para os cargos de borracheiro, serralheiro, pedreiro, operador de serviços de obras e motorista D e no Processo da SEMSA, os cargos são para assistente social, cirurgião dentista, auxiliar de consultório odontológico, enfermeiros, farmacêutico, fisioterapeuta, fonoaudiólogo, médico clínico geral e ESF, médico veterinário, nutricionista, psicólogo, entre outros. Todas as vagas são para cadastro de reserva.\n\nQualquer pessoa acima de dezoito anos pode participar dos processos que exigem tempo de serviço e títulos, ou seja, o candidato deverá comprovar por meio de documentos as experiências profissionais e de cursos que já tenha participado.\n\nConfira os editais clicando em \"Abrir no Navegador\".",
+        "destaque": false
+    }
+    {
+        "id": 9044,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9044.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9044",
+        "data": "10/11/2023",
+        "titulo": "7ª Etapa do Circuito Capixaba Estadual de Jiu-Jitsu será em Castelo",
+        "descricao": "Castelo será a sede da 7ª Etapa do Circuito Capixaba Estadual de Jiu-Jitsu no domingo, 19 de novembro. O evento, organizado pela Prefeitura Municipal e pela Federação Capixaba de Jiu-Jitsu Esportivo (FCJJE), contará com mais de 600 competidores das categorias infantil, adulto e master, masculina e feminina, de várias regiões do Espírito Santo, do Rio de Janeiro e de Minas Gerais.\n\nAs disputas serão realizadas no Ginásio da Escola João Bley, das 8 às 20 horas, com entrada gratuita para o público.\n\n“O objetivo de trazer a etapa do circuito para Castelo é fomentar o esporte no nosso município que já conta com vários atletas da modalidade, inclusive com campeões nacionais, um deles é o Professor Felipe Salgado, responsável pelo projeto social da Prefeitura que oferece aulas gratuitas de jiu-jitsu. Estamos muito felizes em poder sediar um evento tão importante”, explicou o prefeito de Castelo, João Paulo Nali.\n\nAs inscrições para o campeonato estão disponíveis até o dia 15 de novembro no site da Federação Capixaba de Jiu-Jitsu Esportivo: www.ilutas.com.br",
+        "destaque": false
+    }    
     {
         "id": 9042,
         "imagem": "https://pmcmobile.github.io/backend/api/image/news/9042.jpg",
