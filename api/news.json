@@ -1,40 +1,68 @@
 [
-        {
-        "id": 9046,
-        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9046.jpg",
-        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9046",
-        "data": "13/11/2023",
-        "titulo": "Chamamento Público Para o Programa de Aquisição de Alimentos (PAA)",
-        "descricao": "A Prefeitura Municipal de Castelo informa que está disponível o Edital para aquisição de gêneros alimentícios da Agricultura Familiar para o Programa de Aquisição de Alimentos (PAA). Os agricultores interessados em participar deverão apresentar a documentação entre os dias 13 e 17 de novembro, das 8 às 13 horas, na “Secretaria Municipal de Desenvolvimento Social e Habitação - SEMDSH”, situada na Rua Carlos Lomba, número 233, centro da cidade.",
-        "destaque": true
-    },
-    {
-        "id": 9045,
-        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9045.jpg",
-        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9045",
-        "data": "10/11/2023",
-        "titulo": "Prefeitura de Castelo Abre Processos Seletivos Simplificados para cargos na SEMIURB e na SEMSA",
-        "descricao": "A Prefeitura Municipal de Castelo torna público os editais dos Processos Seletivos Simplificados para profissionais atuarem nas Secretarias Municipais de Infraestrutura Urbana e Saúde.\n\nAs inscrições serão realizadas no Teatro Municipal “Artênio Merçon”, entre os dias 13 e 17 de novembro, das 9h às 12h e das 14h às 16h.\n\nEstão disponíveis no Processo Seletivo da SEMIURB vagas para os cargos de borracheiro, serralheiro, pedreiro, operador de serviços de obras e motorista D e no Processo da SEMSA, os cargos são para assistente social, cirurgião dentista, auxiliar de consultório odontológico, enfermeiros, farmacêutico, fisioterapeuta, fonoaudiólogo, médico clínico geral e ESF, médico veterinário, nutricionista, psicólogo, entre outros. Todas as vagas são para cadastro de reserva.\n\nQualquer pessoa acima de dezoito anos pode participar dos processos que exigem tempo de serviço e títulos, ou seja, o candidato deverá comprovar por meio de documentos as experiências profissionais e de cursos que já tenha participado.\n\nConfira os editais clicando em \"Abrir no Navegador\".",
-        "destaque": false
-    },
-    {
-        "id": 9044,
-        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9044.jpg",
-        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9044",
-        "data": "10/11/2023",
-        "titulo": "7ª Etapa do Circuito Capixaba Estadual de Jiu-Jitsu será em Castelo",
-        "descricao": "Castelo será a sede da 7ª Etapa do Circuito Capixaba Estadual de Jiu-Jitsu no domingo, 19 de novembro. O evento, organizado pela Prefeitura Municipal e pela Federação Capixaba de Jiu-Jitsu Esportivo (FCJJE), contará com mais de 600 competidores das categorias infantil, adulto e master, masculina e feminina, de várias regiões do Espírito Santo, do Rio de Janeiro e de Minas Gerais.\n\nAs disputas serão realizadas no Ginásio da Escola João Bley, das 8 às 20 horas, com entrada gratuita para o público.\n\n“O objetivo de trazer a etapa do circuito para Castelo é fomentar o esporte no nosso município que já conta com vários atletas da modalidade, inclusive com campeões nacionais, um deles é o Professor Felipe Salgado, responsável pelo projeto social da Prefeitura que oferece aulas gratuitas de jiu-jitsu. Estamos muito felizes em poder sediar um evento tão importante”, explicou o prefeito de Castelo, João Paulo Nali.\n\nAs inscrições para o campeonato estão disponíveis até o dia 15 de novembro no site da Federação Capixaba de Jiu-Jitsu Esportivo: www.ilutas.com.br",
-        "destaque": false
-    },
-    {
-        "id": 9042,
-        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9042.jpg",
-        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9042",
-        "data": "07/11/2023",
-        "titulo": "Prefeitura realiza Audiência Pública para discussão do reenquadramento de postos de abastecimento de veículos automotores",
-        "descricao": "A Prefeitura de Castelo promoveu na noite de segunda-feira, 06 de novembro, na Câmara Municipal, uma Audiência Pública onde foi discutido o reenquadramento da atividade: “postos de abastecimento de veículos automotores”.\n\nA audiência, mediada pelo Prefeito de Castelo, João Paulo Nali, contou com a participação de representantes da Prefeitura, da Câmara, de postos de combustíveis e da população em geral.\n\nDurante este ano de 2023, o Grupo Técnico de Apoio (GTA), nomeado pela chefe do executivo, realizou o estudo de viabilidade para a alteração do Plano Diretor Municipal através do reenquadramento da atividade em questão.\n\n“Esse reenquadramento se torna importante devido ao aumento da frota de veículos no município e da necessidade de uma maior abrangência territorial do serviço. Além disso, é fundamental que haja maior controle na implantação da atividade através das legislações municipais, não causando danos ao Município e à população”, explicou o Prefeito.",
-        "destaque": true
-    },  
+  {
+    "id": 9049,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9049.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9049",
+    "data": "16/11/2023",
+    "titulo": "Prefeitura Promove Dia “D” de Combate à Dengue com Foco na Conscientização da População.",
+    "descricao": "A Prefeitura de Castelo, por meio do Núcleo de Vigilância em Saúde, promoveu no sábado, 11 de novembro, o Dia “D” de Combate à Dengue no Município. A ação teve como objetivo alertar a população sobre a importância de eliminar os criadouros do Aedes Aegypti, mosquito transmissor da dengue, chikungunya, zika e febre amarela urbana.\n\nA programação contou com uma caminhada de conscientização sobre a doença, com saída da Unidade de Saúde Solange Campanha até a Praça do Convívio. Durante o percurso, os Agentes de Combate às Endemias abordaram as pessoas e entregaram materiais informativos.\n\nNa Praça do Convívio, foi montada uma tenda para orientação da população e também realizada, pela equipe da saúde, a limpeza das margens do Rio Castelo, com o recolhimento de materiais que acumulam água, como garrafas pet, pneus, latas e vasos de plantas.\n\n“O verão é a época de maior proliferação do mosquito, por isso é importante que todos façam a sua parte e mantenham os locais limpos. A dengue é uma doença grave e que pode levar à morte. A responsabilidade de eliminar o mosquito é de todos nós”, ressaltou o Prefeito de Castelo, João Paulo Nali.",
+    "destaque": false
+  },
+  {
+    "id": 9048,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9048.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9048",
+    "data": "14/11/2023",
+    "titulo": "Benfica é Campeão da 2ª “Copa Castelo de Futebol de Campo”",
+    "descricao": "O Benfica foi o grande campeão da 2ª “Copa Castelo de Futebol de Campo”, categoria masculina, realizada pela Prefeitura, por meio da Secretaria Municipal de Esportes, Lazer e Juventude (SEMLEJ).\n\nA disputa aconteceu contra o time do Aracuí na tarde de sábado, 11 de novembro, no Estádio Emílio Nemer, com a presença de mais de mil pessoas.\n\nNo tempo normal de jogo o Aracuí venceu o Benfica por 2x1, mas por conta da vantagem da partida de ida, a disputa foi definida nas penalidades, onde o Benfica levou o título por 3x1. \n\n“Esse foi mais um excelente campeonato, muito bem organizado e com um grande público prestigiando os jogos. Parabenizo as equipes vencedoras e os servidores da SEMLEJ pelo ótimo trabalho”, comentou o Prefeito de Castelo, João Paulo Nali.\n\nA premiação aconteceu logo após a partida, receberam troféus as seguintes categorias:\n\nArtilheiros da Competição: Maykon do Benfica e Breno do Aracuí, ambos com 04 gols. \n \nGoleiro Menos Vazado: Maxwell do Benfica.\n\nAtleta Revelação: Breno do Aracuí.\n\nTroféu Disciplina: Campestre.\n\nVice-Campeã: Aracuí\n\nCampeã: Benfica.",
+    "destaque": false
+  },
+
+  {
+    "id": 9047,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9047.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9047",
+    "data": "14/11/2023",
+    "titulo": "Prefeitura Abre Processo Seletivo Para Profissionais da Educação",
+    "descricao": "A Prefeitura de Castelo, por meio da Secretaria Municipal de Educação (SEME), divulgou nesta segunda-feira, 13 de novembro, no Diário Oficial os editais para contratação temporária de profissionais da educação.\n\nAs vagas são para os cargos de professor, secretário escolar, operador de serviços de apoio às unidades escolares, assistente de serviços de educação e motorista.\n\nAs inscrições para o “Processo Seletivo Simplificado” serão realizadas online nas seguintes datas: professor entre os dias 20 e 24 de novembro e demais cargos de 27 de novembro a 1º de dezembro. \n\nOs editais e o formulário de inscrição estão disponíveis clicando em :",
+    "destaque": false
+  },
+  {
+    "id": 9046,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9046.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9046",
+    "data": "13/11/2023",
+    "titulo": "Chamamento Público Para o Programa de Aquisição de Alimentos (PAA)",
+    "descricao": "A Prefeitura Municipal de Castelo informa que está disponível o Edital para aquisição de gêneros alimentícios da Agricultura Familiar para o Programa de Aquisição de Alimentos (PAA). Os agricultores interessados em participar deverão apresentar a documentação entre os dias 13 e 17 de novembro, das 8 às 13 horas, na “Secretaria Municipal de Desenvolvimento Social e Habitação - SEMDSH”, situada na Rua Carlos Lomba, número 233, centro da cidade.",
+    "destaque": true
+  },
+  {
+    "id": 9045,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9045.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9045",
+    "data": "10/11/2023",
+    "titulo": "Prefeitura de Castelo Abre Processos Seletivos Simplificados para cargos na SEMIURB e na SEMSA",
+    "descricao": "A Prefeitura Municipal de Castelo torna público os editais dos Processos Seletivos Simplificados para profissionais atuarem nas Secretarias Municipais de Infraestrutura Urbana e Saúde.\n\nAs inscrições serão realizadas no Teatro Municipal “Artênio Merçon”, entre os dias 13 e 17 de novembro, das 9h às 12h e das 14h às 16h.\n\nEstão disponíveis no Processo Seletivo da SEMIURB vagas para os cargos de borracheiro, serralheiro, pedreiro, operador de serviços de obras e motorista D e no Processo da SEMSA, os cargos são para assistente social, cirurgião dentista, auxiliar de consultório odontológico, enfermeiros, farmacêutico, fisioterapeuta, fonoaudiólogo, médico clínico geral e ESF, médico veterinário, nutricionista, psicólogo, entre outros. Todas as vagas são para cadastro de reserva.\n\nQualquer pessoa acima de dezoito anos pode participar dos processos que exigem tempo de serviço e títulos, ou seja, o candidato deverá comprovar por meio de documentos as experiências profissionais e de cursos que já tenha participado.\n\nConfira os editais clicando em \"Abrir no Navegador\".",
+    "destaque": false
+  },
+  {
+    "id": 9044,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9044.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9044",
+    "data": "10/11/2023",
+    "titulo": "7ª Etapa do Circuito Capixaba Estadual de Jiu-Jitsu será em Castelo",
+    "descricao": "Castelo será a sede da 7ª Etapa do Circuito Capixaba Estadual de Jiu-Jitsu no domingo, 19 de novembro. O evento, organizado pela Prefeitura Municipal e pela Federação Capixaba de Jiu-Jitsu Esportivo (FCJJE), contará com mais de 600 competidores das categorias infantil, adulto e master, masculina e feminina, de várias regiões do Espírito Santo, do Rio de Janeiro e de Minas Gerais.\n\nAs disputas serão realizadas no Ginásio da Escola João Bley, das 8 às 20 horas, com entrada gratuita para o público.\n\n“O objetivo de trazer a etapa do circuito para Castelo é fomentar o esporte no nosso município que já conta com vários atletas da modalidade, inclusive com campeões nacionais, um deles é o Professor Felipe Salgado, responsável pelo projeto social da Prefeitura que oferece aulas gratuitas de jiu-jitsu. Estamos muito felizes em poder sediar um evento tão importante”, explicou o prefeito de Castelo, João Paulo Nali.\n\nAs inscrições para o campeonato estão disponíveis até o dia 15 de novembro no site da Federação Capixaba de Jiu-Jitsu Esportivo: www.ilutas.com.br",
+    "destaque": false
+  },
+  {
+    "id": 9042,
+    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9042.jpg",
+    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9042",
+    "data": "07/11/2023",
+    "titulo": "Prefeitura realiza Audiência Pública para discussão do reenquadramento de postos de abastecimento de veículos automotores",
+    "descricao": "A Prefeitura de Castelo promoveu na noite de segunda-feira, 06 de novembro, na Câmara Municipal, uma Audiência Pública onde foi discutido o reenquadramento da atividade: “postos de abastecimento de veículos automotores”.\n\nA audiência, mediada pelo Prefeito de Castelo, João Paulo Nali, contou com a participação de representantes da Prefeitura, da Câmara, de postos de combustíveis e da população em geral.\n\nDurante este ano de 2023, o Grupo Técnico de Apoio (GTA), nomeado pela chefe do executivo, realizou o estudo de viabilidade para a alteração do Plano Diretor Municipal através do reenquadramento da atividade em questão.\n\n“Esse reenquadramento se torna importante devido ao aumento da frota de veículos no município e da necessidade de uma maior abrangência territorial do serviço. Além disso, é fundamental que haja maior controle na implantação da atividade através das legislações municipais, não causando danos ao Município e à população”, explicou o Prefeito.",
+    "destaque": true
+  },
   {
     "id": 9041,
     "imagem": "https://pmcmobile.github.io/backend/api/image/news/9041.jpg",
