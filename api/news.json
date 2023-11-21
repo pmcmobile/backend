@@ -1,4 +1,13 @@
 [
+    {
+        "id": 9050,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9050.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9050",
+        "data": "20/11/2023",
+        "titulo": "Prefeitura Realiza a Maior Campanha do NAC de Todas as Edições Com 100 Prêmios para os Produtores Rurais de Castelo",
+        "descricao": "A Prefeitura Municipal de Castelo, por meio do Núcleo de Atendimento ao Contribuinte (NAC), realiza a maior campanha de incentivo à emissão de notas fiscais de sua história.\n\nA campanha “Produtor Rural, Contribuinte Legal” de 2023 oferece 100 prêmios, que incluem: televisões, fornos elétricos, fornos micro-ondas, fritadeiras elétricas, ventiladores, panelas elétricas, batedeiras, liquidificadores e R$ 15.000,00 em dinheiro.\n\nO objetivo da campanha é conscientizar os produtores rurais sobre a importância da emissão de notas fiscais de seus produtos, contribuindo para o crescimento do Índice de Participação Municipal (IPM).\n\nPara participar, os produtores rurais devem possuir inscrição estadual rural ativa e o bloco de produtor rural no município. A cada R$ 1.000,00 em notas fiscais emitidas, o produtor terá direito a um cupom, que poderá ser retirado no NAC, localizado no térreo do Centro de Cultura e Cidadania de Castelo, de segunda a sexta-feira, das 7h às 16h.\n\n“Ao solicitar a nota fiscal, estamos garantindo que o município receba a sua parte dos tributos arrecadados, que serão, consequentemente, investidos em melhorias para a nossa cidade. Procure o NAC e participe da nossa campanha”, comentou o Prefeito de Castelo, João Paulo Nali.",
+        "destaque": false
+    },  
   {
     "id": 9049,
     "imagem": "https://pmcmobile.github.io/backend/api/image/news/9049.jpg",
