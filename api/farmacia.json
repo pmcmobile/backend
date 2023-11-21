@@ -73,7 +73,7 @@
       "urlMap": "https://maps.app.goo.gl/Gawwe1BgcR7LCX4f7"
     },
     {
-      "id": "05",
+      "id": "06",
       "plantaoData": "20231019",
       "nome": "Farmania Farmácia",
       "data": "19 de Novembro",
@@ -85,6 +85,20 @@
       "latitude": "-20.602075995807170",
       "longitude": "-41.204800092844080",
       "urlMap": "https://maps.app.goo.gl/G6GEbXfMJCUBfjze8"
+    },
+        {
+      "id": "07",
+      "plantaoData": "20231121",
+      "nome": "Farma em Vida",
+      "data": "21 de Novembro",
+      "endereco": "Rua Antônio Bento, 55",
+      "pontoreferencia": null,
+      "bairro": "Centro",
+      "telefone": "2835424656",
+      "celplantao": "28999696198",
+      "latitude": "-20.60247",
+      "longitude": "-41.20238",
+      "urlMap": "https://maps.app.goo.gl/1K37ZQt8r3Yzx5ZJ6"
     }
   ]
 }
