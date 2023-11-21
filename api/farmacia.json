@@ -60,7 +60,7 @@
     },
     {
       "id": "05",
-      "plantaoData": "20231028",
+      "plantaoData": "20231018",
       "nome": "Bia Drogaria",
       "data": "18 de Novembro",
       "endereco": "Av. Min. Araripe, 204",
@@ -71,6 +71,20 @@
       "latitude": "-20.602075995807170",
       "longitude": "-41.204800092844080",
       "urlMap": "https://maps.app.goo.gl/Gawwe1BgcR7LCX4f7"
+    },
+    {
+      "id": "05",
+      "plantaoData": "20231019",
+      "nome": "Farmania Farmácia",
+      "data": "19 de Novembro",
+      "endereco": "Av. Min. Araripe, 143",
+      "pontoreferencia": null,
+      "bairro": "Centro",
+      "telefone": "2833106262",
+      "celplantao": "2899992523",
+      "latitude": "-20.602075995807170",
+      "longitude": "-41.204800092844080",
+      "urlMap": "https://maps.app.goo.gl/G6GEbXfMJCUBfjze8"
     }
   ]
 }
