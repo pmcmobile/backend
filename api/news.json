@@ -35,7 +35,16 @@
         "descricao": "O Município de Castelo sediou com sucesso no domingo, 19 de novembro, a 7ª etapa do Circuito Capixaba Estadual de Jiu-Jitsu. O evento, organizado pela Prefeitura e pela Federação Capixaba de Jiu-Jitsu Esportivo (FCJJE), contou com mais de 600 atletas de várias regiões do Espírito Santo, do Rio de Janeiro e de Minas Gerais.\n\nO evento, que teve duração de 12 horas, foi realizado no Ginásio da Escola João Bley e contou com competidores das categorias infantil, adulto e master, masculina e feminina. Os castelenses se destacaram no alto do pódio, em especial a equipe NEXUS, que ficou em terceiro lugar na classificação geral por equipes, e o atleta faixa preta Felipe Salgado, responsável pelo Projeto Social de Jiu-Jitsu da Prefeitura de Castelo, que se sagrou vice-campeão da categoria absoluto.\n\nO Prefeito de Castelo, João Paulo Nali, destaca a importância de eventos como este para o município. \"O incentivo às artes marciais é fundamental para o desenvolvimento esportivo e social da nossa cidade. Por isso, a Prefeitura vem promovendo apoio irrestrito a eventos e projetos realizados nos bairros durante todo o ano\".",
         "destaque": false
     },
-	    {
+    {
+        "id": 9052,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9052.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9052",
+        "data": "23/11/2023",
+        "titulo": "IPTU 2024 - Isenção do \"Imposto Predial e Territorial Urbano\"",
+        "descricao": "A Prefeitura Municipal de Castelo comunica aos contribuintes que fazem jus a isenção do \"Imposto Predial e Territorial Urbano\" - IPTU, exercício de 2024, que devido as alterações legislativas, devem comparecer ao \"Departamento de Receita e Tributação\", localizado no 1º andar do prédio da Prefeitura até o dia 30 de novembro para preenchimento do requerimento de isenção.\n\nMais informações podem ser obtidas pelo telefone: 3542-6300 (Ramal: 210).",
+        "destaque": false
+    },	
+{
         "id": 9051,
         "imagem": "https://pmcmobile.github.io/backend/api/image/news/9051.jpg",
         "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9051",
