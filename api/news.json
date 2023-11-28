@@ -153,15 +153,6 @@
     "destaque": false
   },
   {
-    "id": 9039,
-    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9039.jpg",
-    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9039",
-    "data": "24/10/2023",
-    "titulo": "Prefeitura Promove Evento de Encerramento de Formação Continuada Para Mais de 800 Educadores",
-    "descricao": "A Secretaria Municipal de Educação (SEME) encerrou, na manhã de quarta-feira, 18 de outubro, na Escola de Ensino Infantil e Ensino Fundamental Madalena Pisa, os cursos de Formação Continuada oferecidos aos profissionais do Ensino Fundamental e da Educação Especial.\n\nMais de 800 educadores participaram do encontro, que contou com uma programação extensa, incluindo apresentações culturais, visitações e palestras de pedagogos, coordenadores, diretores e do renomado palestrante motivacional Lucas Fonseca, autor do livro \"O céu não é o limite. É o alvo”.\n\nA Formação, com o tema “Escola em Ação: alinhando percursos em busca da recomposição da aprendizagem”, teve início no mês de junho deste ano com encontros que objetivaram subsidiar o trabalho pedagógico dos professores através das abordagens dos assuntos: importância da função social da escola, o desenvolvimento do trabalho mais alinhado às necessidades da realidade social contemporânea e a importância de despertar nos estudantes o desejo pela busca do conhecimento.\n\n“Nossos encontros foram elaborados com a finalidade de oferecer aos profissionais da educação uma formação que permita a reflexão sobre o cotidiano de trabalho, de forma a repensar os desafios encontrados e as novas possibilidades e aplicabilidades educacionais. Essa foi uma Formação muito rica que proporcionou dias de muito estudo, aprendizado e troca de informações”, explicou a Secretária Municipal de Educação, Ana Paula Farias. \n\nO Prefeito de Castelo, João Paulo Nali, destacou a importância da formação  de educadores para a melhoria da qualidade da educação. “A formação continuada é mais uma de nossas estratégias para contribuir com o processo de aperfeiçoamento dos nossos profissionais. Ela oportuniza aprendizados referentes às metodologias educacionais, bem como aos procedimentos obtidos para as práticas desenvolvidas em sala de aula e em sociedade”, afirmou Nalli.",
-    "destaque": false
-  },
-  {
     "id": 9038,
     "imagem": "https://pmcmobile.github.io/backend/api/image/news/9038.jpg",
     "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9038",
@@ -169,24 +160,6 @@
     "titulo": "Não Se Cale, Denuncie!",
     "descricao": "O abuso e a exploração sexual são formas silenciosas e cruéis de violência contra crianças e adolescentes e geralmente são praticados por pessoas de confiança da vítima, ou por conhecidos, o que torna o problema ainda mais complexo e velado. \n\nA vítima carrega esse “segredo” por longo tempo, sofrendo de forma silenciosa e devastadora. Os efeitos podem ser físicos, psicológicos, sociais e morais, e incluem medo, mudanças comportamentais, baixa autoestima e dificuldades de estabelecer vínculos afetivos.\n\nAs crianças e adolescentes que sofrem esse tipo de violência estão mais vulneráveis a outros problemas, como uso de drogas, gravidez precoce, distúrbios de comportamento e doenças sexualmente transmissíveis.\n\nÉ importante que todos estejam atentos aos sinais de abuso e exploração sexual, e que denunciem esses crimes às autoridades competentes.\n\nABUSO CONTRA CRIANÇA E O ADOLESCENTE É CRIME! \n\nFAÇA SUA PARTE, SUA IDENTIDADE SERÁ MANTIDA EM SEGREDO.\n\nCANAIS PARA DENUNCIAR:\nDISK 100;\nSECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL E HABITAÇÃO - SEMDSH;\nMINISTÉRIO PÚBLICO;\nCONSELHO TUTELAR;\nCREAS;\nPOLÍCIA CIVIL/MILITAR.",
     "destaque": true
-  },
-  {
-    "id": 9037,
-    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9037.jpg",
-    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9037",
-    "data": "23/10/2023",
-    "titulo": "Bairro Esplanada Ganha Nova Quadra Poliesportiva",
-    "descricao": "A Prefeitura Municipal de Castelo e o Governo do Estado do Espírito Santo, em parceria com a Secretaria de Esportes e Lazer (Sesport) e o Departamento de Edificações e de Rodovias do Espírito Santo (DER-ES), inauguraram na manhã de quinta-feira, 19 de outubro, a Quadra Poliesportiva do Bairro Esplanada.\n\nA quadra, construída em uma área total de 695,40 m², conta com cobertura e arquibancada e será utilizada pelos moradores para a prática esportiva, promoção de eventos comunitários e realização dos Projetos da Secretaria Municipal de Lazer, Esportes e Juventude (SEMLEJ) que oferecem aulas gratuitas de jiu-jitsu, fitdance, voleibol e ginástica funcional.\n\n“A entrega de mais uma quadra representa o compromisso contínuo da nossa gestão em investir na qualidade de vida dos nossos munícipes. Estamos felizes em proporcionar à comunidade um ambiente adequado para a prática esportiva e a convivência”, comentou o Prefeito de Castelo, João Paulo Nali. \n\nAlém do Prefeito, participaram da solenidade de inauguração o Presidente da Câmara, Tiago de Souza, Vereadores e Secretários Municipais, o Secretário da Sesport, José Carlos Nunes da Silva, o Diretor-Presidente do DER-ES, José Eustáquio de Freitas, a Secretária de Estado do Governo do ES, Maria Emanuela Alves Pedroso, moradores e alunos das escolas do bairro.",
-    "destaque": false
-  },
-  {
-    "id": 9035,
-    "imagem": "https://pmcmobile.github.io/backend/api/image/news/9035.jpg",
-    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9035",
-    "data": "20/10/2023",
-    "titulo": "Edital Fundo a Fundo - Inscrições 18/10 à 17/11 - Dança, Teatro e Música",
-    "descricao": "A Prefeitura de Castelo, através da Secretaria Municipal de Turismo, Eventos e Cultura – SEMTEC, lançou nesta segunda-feira, 02 de outubro, cinco editais de incentivo às diversas áreas da cultura, concedendo o valor de R$ 536.364,67 ao setor.\n\nOs editais vão contemplar, com recursos advindos da Lei Paulo Gustavo, Fundo a Fundo e Prefeitura, um total de 46 iniciativas culturais, distribuídas entre as áreas de produção audiovisual, capacitação de agentes culturais, oficinas, publicações, apresentações e outros.\n \nTodo o processo de elaboração dos editais, que inclui a definição de valores, a quantidade de projetos e a divisão dos recursos, foi construído em conjunto com a sociedade civil, por meio de consultas públicas e da participação ativa do Conselho Municipal de Políticas Culturais de Castelo.\n\n“Esse edital consolida o ciclo do maior investimento de todos os tempos do Município de Castelo em parceria com o Governo Federal para a fomentação do incentivo e da criação, produção e distribuição de produtos e serviços que usem o conhecimento e a criatividade para agregarem ao setor cultural de nossa cidade. Convido a todos que estão dentro dos requisitos a participarem dessa grande oportunidade”, ressaltou o Prefeito, João Paulo Nali.\n\nAs inscrições vão acontecer entre os dias 02 e 31 de outubro na sede da SEMTEC, localizada no 1º andar do prédio do Centro de Cultura e Cidadania de Castelo, de segunda a sexta-feira, das 7 às 16 horas.\n\nOs projetos serão divididos da seguinte forma:\n\n- Seis iniciativas de produção de curta-metragem, cada uma com o valor de R$ 31.170,25 mil;\n- Duas iniciativas de cinema itinerante, divididas entre área urbana e rural, com os valores de R$ 20.248,79 e R$ 22.500,00, respectivamente;\n- Uma iniciativa de formação em audiovisual, com o valor de R$ 21.462,64;\n- Duas iniciativas na área de cultura popular, com o valor total de R$ 16.000,06;\n- Duas iniciativas para artesanato, com o valor total de R$ 16.000,00;\n- Dez iniciativas para publicação em literatura, com o valor total de R$ 69.770,00;\n- Nove iniciativas na área de dança, com o valor total de R$ 68.680,00;\n- Seis iniciativas na área de música, com o valor total de R$ 54.000,00;\n- Oito iniciativas na área de teatro, com o valor total de R$ 60.680,026.",
-    "destaque": false
   },
   {
     "id": 9023,
@@ -232,14 +205,5 @@
     "titulo": "Edital de Credenciamento de Artistas Para Participarem de Eventos Culturais em Castelo",
     "descricao": "A Prefeitura, através da Secretaria Municipal de Turismo e Cultura – SEMTURC, torna público, para conhecimento dos interessados, que estão abertas as inscrições para o credenciamento de artistas locais para participação em eventos culturais públicos que serão promovidos e apoiados pela Prefeitura durante este ano de 2023. \n\nEste edital tem como objetivo o cadastro de pessoas físicas (maiores de 18 anos) e jurídicas, residentes ou localizadas em Castelo, com vistas à apresentações musicais. Podem se inscrever: duplas, trios, grupos/bandas e cantores solos residentes nesta cidade.\n\nO credenciamento será exclusivo para artistas que desenvolvam os seguintes gêneros musicais: Música Popular Brasileira, Pop Rock, Samba, Pagode e Sertanejo. Os artistas que desejarem participar de qualquer evento promovido/apoiado pela Prefeitura, através deste edital, deverão se cadastrar até o dia 31 de dezembro deste ano. \n\nA documentação, exigida no edital, precisará ser protocolada em envelope lacrado, na sede da Prefeitura situada na Avenida Nossa Senhora da Penha, n° 103, Centro, de segunda a sexta-feira, das 7:00h às 16:00h – NO SETOR DE COMPRAS E LICITAÇÕES (segundo andar), e endereçada para a SEMTURC, constando a seguinte informação: CREDENCIAMENTO DE ARTISTAS PARA PARTICIPAÇÕES EM EVENTOS MUSICAIS PÚBLICOS PROMOVIDOS PELA PREFEITURA DE CASTELO.\n\nConfira o Edital em: www.castelo.es.gov.br/licitacoes/",
     "destaque": true
-  },
-  {
-    "id": 8806,
-    "imagem": "https://pmcmobile.github.io/backend/api/image/news/8806.jpg",
-    "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=8806",
-    "data": "24/06/2022",
-    "titulo": "Prefeitura de Castelo Lança Programa Semanal de Rádio",
-    "descricao": "Com objetivo de atualizar a população castelense sobre os trabalhos, ações e projetos desenvolvidos pela Administração Pública, o Prefeito, João Paulo Nali, lançou o programa semanal “Castelo em Transformação”, na Rádio Cultural FM (101,7) todas as quintas-feiras, às 6h40min da manhã. \n\nO Programa, que conta com abertura do radialista José Augusto Lacerda, tem duração de 30 minutos, e é conduzido pelo próprio Prefeito, que aborda assuntos relevantes para os castelenses, entre eles, limpeza urbana, obras, interior, agricultura, saúde e educação.\n\n“Não estamos medindo esforços para garantir a transparência em todas as ações realizadas pela Prefeitura. Ter mais este canal de comunicação com a Comunidade é de grande importância para a nossa gestão, pois essa é mais uma forma eficiente de garantir a prestação de contas dos nossos serviços ”, informou o Prefeito.",
-    "destaque": false
   }
 ]
