@@ -1,4 +1,13 @@
 [
+ {
+        "id": 9059,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9059.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9059",
+        "data": "05/12/2023",
+        "titulo": "CONFIRA OS CAFEICULTORES PREMIADOS NO “CONCURSO DE QUALIDADE DO CAFÉ DE CASTELO 2023”",
+        "descricao": "Na noite de sexta-feira, 1º de dezembro, a Prefeitura de Castelo, por meio da Secretaria Municipal de Agricultura – SEMAG, realizou a solenidade de entrega da premiação da 17ª edição do Concurso de Qualidade do Café de Castelo, no espaço Cintia Prime Buffet.\n \nMais de 300 produtores participaram da festa que revelou os cafés premiados nas categorias arábica e conilon deste ano de 2023. “É com muita satisfação que entregamos essa premiação. Esse Concurso é uma forma de incentivar e valorizar nossos cafeicultores que produzem cafés de excelência e levam o nome de Castelo para várias partes do mundo”, ressaltou o Prefeito, João Paulo Nali.\n \nVinte cafeicultores castelenses, sendo dez na categoria arábica e dez na categoria conilon, receberam troféu e uma quantia em dinheiro, que variou de R$ 300 a R$ 4 mil. \n\nVencedores na Categoria Conilon:\n1° – Elieser Calvi – Pontuação: 87,63 – Córrego de Ubá\n2º – Francisco Cassini – Pontuação: 85,08 – Caxixe Quente\n3º – Arlindo Giori – Pontuação: 84,71 – Campestre\n4º – Valdecir Sena – Pontuação: 84,42 – Caxixe Quente\n5º – Cirineu Tozi – Pontuação: 83,58 – Caxixe Quente\n6º – Douglas Cuma Salve – Pontuação: 83,46 – Estrelinha\n7º – Arlindo Tiengo – Pontuação: 83,08 – Caxixe Quente\n8º – Marciano Valani – Pontuação: 82,96 – Pontões\n9º – Francisco Fim – Pontuação: 82,88 – Caxixe Quente\n10º – Vagner Dias Sartori – Pontuação: 81,63 – Bateia\n\nVencedores na Categoria Arábica:\n1º – Valdinei Fim – Pontuação: 90,63 – Caxixe Quente\n2º – Rogério Sartori – Pontuação: 89,67 – Bateia\n3º – Douglas Cuman Salve – Pontuação: 88,17 – Bateia\n4º – Josiane Abreu Nali – Pontuação: 87,29 – Bateia\n5º – Elieser Calvi – Pontuação: 87,25 – Córrego de Ubá\n6º – Willian Dalvi Sartori – Pontuação: 86,96 – Bateia\n7º – Maria da Penha Dalvi Tomazini – Pontuação: 86,71 – Bateia\n8º – Abner Dalvi Tomazini – Pontuação: 86,42 – Bateia\n9º – Edson Pires Sartori – Pontuação: 86,33 – Bateia\n10º – Renan Pena Santos – Pontuação: 86,04 – Balança",
+        "destaque": false
+    },
 	    {
         "id": 9058,
         "imagem": "https://pmcmobile.github.io/backend/api/image/news/9058.jpg",
