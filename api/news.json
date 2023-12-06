@@ -1,4 +1,22 @@
 [
+    {
+        "id": 9060,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9060.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9060",
+        "data": "05/12/2023",
+        "titulo": "Prefeitura Realiza Noite Especial de Acendimento das Luzes do “Natal Encantado de Castelo”",
+        "descricao": "A Prefeitura de Castelo promoveu, no domingo, 03 de dezembro, uma noite mágica e especial para os castelenses. Em contagem regressiva e com a Praça Três Irmãos lotada, o Prefeito João Paulo Nali anunciou o acendimento das luzes do “Natal Encantado 2023”. \n\nA Biblioteca Municipal - “Castelinho”, a Igreja Matriz, a Casa do Artesão, a Avenida Nossa Senhora da Penha, a rotatória do Castelão, o Parque Beira Rio, o Teatro “Artênio Merçon”, a Prefeitura, a Câmara Municipal e as Praças do Convívio, Três Irmãos, Volta Redonda, Aracuí e Estrela do Norte foram os pontos da cidade ornamentados com luzes coloridas e elementos decorativos de Natal em formato de presentes, bolas, árvores e estrelas. \n\n“Preparamos com muito carinho um Natal cheio de surpresas e encanto. Nossa iluminação está linda, lúdica e cheia de detalhes especiais. Espero que todos aproveitem muito com suas famílias”, comentou o Prefeito.\n\nA programação natalina de Castelo vai até o dia 23 de dezembro e conta com diversas atrações, como feira de Natal, auto de Natal, chegada do Papai Noel, casa do Papai Noel, caravana iluminada de Natal Coca-Cola, praça de alimentação, apresentações teatrais e musicais e show infantil.",
+        "destaque": false
+    },
+	    {
+        "id": 9061,
+        "imagem": "https://pmcmobile.github.io/backend/api/image/news/9061.jpg",
+        "url": "http://www.castelo.es.gov.br/site/conteudo.asp?codigo=9061",
+        "data": "05/12/2023",
+        "titulo": "Agende uma visita com o Agente de Endemias. Proteja sua família!",
+        "descricao": "Proteja sua família!\nSe você trabalha e não está em casa em horário comercial, é possível agendar uma visita.\nentre em contato através do telefone: (28) 99933-8055.",
+        "destaque": false
+    },	
  {
         "id": 9059,
         "imagem": "https://pmcmobile.github.io/backend/api/image/news/9059.jpg",
